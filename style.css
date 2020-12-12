@@ -82,3 +82,13 @@ color: white;
 font-size: 18px;
 padding: 5px;
 }
+
+#mybutton{
+    margin-left: 500px;
+
+}
+
+.onclickc{
+    background-color: rgb(78, 78, 179);
+}
+    

@@ -7,6 +7,12 @@
       method: "GET"
     }).then(function(response) {
       console.log(response);
+
+      //CREATE VAR FOR IMAGE
+      var goodjob= response.object.data[0]
+      
+      //SHOW IMAGE BY APPEND TO TEXT
+      $("#button").append(goodjob);
     });
 
 
