@@ -61,7 +61,10 @@ ul{
     background-color: dodgerblue;
     color: white;
     transform: rotateY(180deg);
-    height: 350px;
+    height: 400px;
+    width: 400px;
+    font-size: 18px;
+    margin-bottom: 20px;
   }
 
 
@@ -90,5 +93,9 @@ padding: 5px;
 
 .onclickc{
     background-color: rgb(78, 78, 179);
+}
+
+.container{
+    margin-bottom: 20px;
 }
     
